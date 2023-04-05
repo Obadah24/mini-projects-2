@@ -1,6 +1,6 @@
 import React from 'react'
-import Ftech1 from './advanced-components/Ftech1'
-import Ftech2 from './advanced-components/Ftech2'
+import Ftech1 from './Components/Fetch1'
+import Ftech2 from './Components/Fetch2'
 
 export default function App() {
   return (
